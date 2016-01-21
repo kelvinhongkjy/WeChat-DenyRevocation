@@ -1,0 +1,9 @@
+Package: com.kh.denyrevocation
+Name: DenyRevocation
+Depends: mobilesubstrate, firmware (>=8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kelvin Hong
+Author: Kelvin Hong
+Section: Tweaks
